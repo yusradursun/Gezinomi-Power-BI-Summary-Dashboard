@@ -1,4 +1,4 @@
-# Gezinomi-Power-BI-Summary-Dashboard
+# POWER-BI-Gezinomi-Summary-Dashboard
 Power BI Gezinomi: Sales and Insight Overview
 Gezinomi Power BI Summary Dashboard
 
